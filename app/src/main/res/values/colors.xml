@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
-    <color name="colorlitegrey">#afacad</color>
+   <color name="colorlitegrey">#afacad</color>
     <color name="colormedgrey">#a6a3a4</color>
     <color name="colordarkgrey">#8e8c8d</color>
     <color name="colordarkestgrey">#585757</color>
+    <color name="colorPrimary">#dd3333</color>
+    <color name="colorPrimaryDark">#d11616</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorYellowis">#ED5565</color>
+    <color name="colorYellower">#DA4453</color>
+    <color name="colorOrangish">#FC6E51</color>
+    <color name="colorDarkOrange">#E9573F</color>
+    <color name="colorFlower">DustyYellow</color>
+    <color name="colorDarkDustyYello">#F68B42</color>
+    <color name="colorGreen">#A0D468</color>
+    <color name="colorDarkGreenk">#8CC152</color>
+    <color name="colorBlue">#509CEC</color>
+    <color name="colorDarkBlue">#4A89DC</color>
+    <color name="colorLightPurple">#AC92EC</color>
+    <color name="colorDarkPurple">#967ADC</color>
+    <color name="colorDustyGreen">#48CFAD</color>
+    <color name="colorDarkGreen">#37BC9B</color>
+    <color name="colorBlueGreen">#4FC1E9</color>
+    <color name="colorDarkBlueGreen">#3BAFDA</color>
+    <color name="colorDustyPink">#EC87C0</color>
+    <color name="colorDarkPink">#D770AD</color>
+
 </resources>
